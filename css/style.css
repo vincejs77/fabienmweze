@@ -10421,6 +10421,8 @@ h5,
 @media (max-width: 767.98px) {
 	.ftco-counter .counter-wrap {
 		margin-bottom: 20px;
+		padding-left: 3rem;
+		padding-right: 2rem;
 	}
 }
 .ftco-counter .ftco-number {
